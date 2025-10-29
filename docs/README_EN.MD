@@ -1,7 +1,7 @@
 # 🎵 Maigo
 > "A network protocol relay layer designed for a certain 8-key rhythm arcade game server."
 
-[🇨🇳 中文版](https://github.com/Kizurer/Maigo/blob/main/README.md) | [🌐 English Version](./README_EN.MD)
+[🇨🇳 中文版](https://github.com/Kizurer/Maigo/blob/master/README.md) | [🌐 English Version](./README_EN.MD)
 
 ---
 

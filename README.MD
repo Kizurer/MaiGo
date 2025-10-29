@@ -1,7 +1,7 @@
 # 🎵 Maigo
 > 「为某八个按键律动游戏机服务器设计的网络通讯协议转接层」
 > 
-[🇨🇳 中文版](./README.md) | [🌐 English Version](https://github.com/Kizurer/Maigo/blob/main/docs/README_EN.MD)
+[🇨🇳 中文版](./README.md) | [🌐 English Version](https://github.com/Kizurer/Maigo/blob/master/docs/README_EN.MD)
 
 ---
 
